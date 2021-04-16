@@ -4,6 +4,7 @@
        <title>cars project</title>
     </head>
     <body class="antialiased">
-        <h2>Welcome to the cars project</h2>
+        <h2>Welcome {{$name}}</h2>
+        <h5>my age is {{$age}}</h5>
     </body>
 </html>
